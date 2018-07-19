@@ -60,9 +60,10 @@
         <activity android:configChanges="locale" android:screenOrientation="landscape" android:name=".Activities.PhotoMenuActivity" />
         <activity android:configChanges="locale" android:screenOrientation="landscape" android:name=".Activities.TalkActivity" />
         <activity android:configChanges="locale" android:screenOrientation="landscape" android:name=".Activities.TestJapaneseKeyBoard" />
+        <activity android:configChanges="locale" android:screenOrientation="landscape" android:name=".Activities.PhotoScanActivity" />
         <meta-data
             android:name="license_key"
-            android:value="your_license_key" />
+            android:value="HG8.YWD2-EHPJ8LE1a.M2F.FIbK,XAc@" />
     </application>
 
 </manifest>
